@@ -1,6 +1,6 @@
-# Analog Clock with CSS & JavaScript
+# Umaru chan Animation with CSS & JavaScript
 
-Một chiếc đồng hồ analog đơn giản được tạo bằng HTML, CSS và JavaScript.
+Một website animation đơn giản được tạo bằng HTML, CSS và JavaScript.
 
 ## Ghi chú (Note)
 
